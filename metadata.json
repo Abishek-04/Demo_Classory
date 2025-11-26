@@ -1,0 +1,5 @@
+{
+  "name": "Classory LMS Dashboard",
+  "description": "A minimalist tenant management dashboard for Classory LMS featuring plan creation, fallback configuration, and subscription management.",
+  "requestFramePermissions": []
+}
